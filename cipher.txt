@@ -1,0 +1,7 @@
+Progressive Cipher
+
+Shifts the ASCII code index by the previous shift + 1, starting from 1.
+For example: abc -> bdf | a-1->b, b-2->d, c-3->f
+
+Result: J"os{k'k{{|uqz5
+Code: cipher.js

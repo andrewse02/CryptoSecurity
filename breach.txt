@@ -1,0 +1,9 @@
+Yahoo Data Breach
+
+In September 2016, Yahoo revealed that their data had been compromised in a breach that started in 2014. Names, emails, birthdates, and phone numbers were all part of the breach of supposedly 500 million users. Sometime later, it was also revealed that a separate group of hackers compromised the passwords, as well as the security questions and answers, of 1 billion users. Eventually, in October 2017, Yahoo announced a revised estimate that stated that all of their users (over 3 billion) were compromised. This cost Yahoo around $350 million in their buyout to Verizon.
+
+The attacks seemed to be motivated by the desire to sell mass amounts of data illegally. The plan was to steal as much user data as possible, and sell it to someone who would make them rich.
+
+The cookies that Yahoo used to identify and authorize users were attacked using a weakness in the input validation on the site. Cookies used for this purpose should be unique and unguessable, none of which the cookies Yahoo used were. The attackers were able to identify as any user they pleased and steal personal information on their account. Or, even worse, gain access to a user with admin privileges that can access databases full of confidential information.
+
+Yahoo invalidated the breached cookies so that they would no longer work to gain access to users' accounts. Security questions and answers can no longer be used to access email accounts. Yahoo also created a mult-factor authentication process. A code is sent to a user's phone via text message, and you must input the code to log in.
